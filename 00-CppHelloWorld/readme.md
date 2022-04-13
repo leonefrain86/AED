@@ -1,0 +1,4 @@
+- Compilador seleccionado: MinGW Distro v18.0
+- Enlaces:
+  - https://nuwen.net/mingw.html 
+  - https://www.youtube.com/watch?v=jvg4VtYEhKU&t=313s
